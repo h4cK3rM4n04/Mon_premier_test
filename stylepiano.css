@@ -1,0 +1,28 @@
+h2	{
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+}
+body	{
+	background-image: url(informatique.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: bottom left;
+}
+div	{
+	color: orange;
+	font-family: Castellar, arial, sans-sérif;
+}
+h3	{
+	color: blue;
+	font-family: Jokerman, Impact, sans-sérif;
+	font-weight: 100;
+	letter-spacing: 05px;
+	text-indent: 30px;
+}
+h1	{
+	color: red;
+	text-decoration: underline;
+	background-color: white;
+	text-align: right;
+}
